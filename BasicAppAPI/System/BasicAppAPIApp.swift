@@ -11,7 +11,7 @@ import SwiftUI
 struct BasicAppAPIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RickMortyView()
         }
     }
 }
